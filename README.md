@@ -23,12 +23,6 @@
 
 > _“At the core, I'm a learner who enjoys going beneath the surface—whether that means refining my code or grasping how complex systems truly work.”_
 
-<!-- Optional visitor badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=visitors&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
-
-
 ###
 
 <div align="left">
