@@ -1,4 +1,33 @@
-<p align="left">Hey, I'm Chinmay Vashishth,  a third-year undergraduate at IIT Jodhpur. I am studying Biological Sciences and Bioengineering. I'm very interested in how technology can help us learn more about the brain and how people act.<br><br>I'm interested in cognitive science, brain-computer interfaces (BCIs), deep learning and full stack development. These are the majority fields that look at the line between human thought and smart systems.<br><br>Backend engineering is the main focus of most of my development work. I mostly use Node.js, Django REST Framework and sometimes Golang to make clean, scalable APIs. <br><br>I'm currently learning more about low-level systems and computer networking so that I can better understand how the abstractions we use work.<br><br>At the core, I'm a learner who enjoys going beneath the surface—whether that means refining my code or grasping how complex systems truly work.</p>
+<h2 align="center">👋 Hey Everyone, I'm <span style="color:#facc15;">Chinmay Vashishth</span></h2>
+
+---
+
+- 🎓 **Undergraduate at IIT Jodhpur**  
+  Studying **Biological Sciences and Bioengineering**
+
+- 🧠 Fascinated by how technology can help us understand the **brain** and **human behavior**
+
+- 🧩 Interested in **Cognitive Science**, **Brain-Computer Interfaces (BCIs)**,  
+  **Deep Learning**, and **Full Stack Development**
+
+- 🛠️ Focused on **Backend Engineering**  
+  using **Node.js**, **Django REST Framework**, and occasionally **Golang**
+
+- ⚙️ Currently learning about **Low-Level Systems** and **Computer Networking**  
+  to understand what really powers modern software
+
+- 🌱 Always curious—whether it's writing better code  
+  or exploring the systems behind intelligent behavior
+
+---
+
+> _“At the core, I'm a learner who enjoys going beneath the surface—whether that means refining my code or grasping how complex systems truly work.”_
+
+<!-- Optional visitor badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
 
 ###
 
