@@ -62,15 +62,24 @@
 </div>
 
 ###
+<!-- GitHub Stats Section -->
 
-<div align="left">
-  <a href="linkedin.com/in/chinmay-vashishth-1a41271b0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/chinmayvashishth/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">
+
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CV016&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2" height="180" alt="languages graph" />
+    
+  <img src="https://github-profile-trophy.vercel.app?username=CV016&theme=dracula&column=6&row=1&margin-w=15&margin-h=10&no-bg=false&no-frame=false&order=4" height="180" alt="trophy graph" />
+  </div>
+
+  <br />
+
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CV016&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" width="100%" height="300" alt="activity-graph" />
+
 </div>
+
 
 ###
 
