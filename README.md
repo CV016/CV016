@@ -1,25 +1,24 @@
-<h2 align="center">👋 Hey Everyone, I'm <span style="color:#facc15;">Chinmay Vashishth</span></h2>
+<h2 align="center"> Hey Everyone, I'm <strong>Chinmay Vashishth</strong> </h2>
 
----
+<hr />
 
-- 🎓 **Undergraduate at IIT Jodhpur**  
-  Studying **Biological Sciences and Bioengineering**
+<ul>
+  <li>🎓 <strong>Undergraduate at IIT Jodhpur</strong><br>
+  <sub>Studying <strong>Biological Sciences and Bioengineering</strong></sub></li><br>
 
-- 🧠 Fascinated by how technology can help us understand the **brain** and **human behavior**
+  <li>🧠 <strong>Fascinated</strong> by how technology can help us understand the <em>brain</em> and <em>human behavior</em></li><br>
 
-- 🧩 Interested in **Cognitive Science**, **Brain-Computer Interfaces (BCIs)**,  
-  **Deep Learning**, and **Full Stack Development**
+  <li>🧩 Exploring the intersection of <strong>Cognitive Science</strong>, <strong>Brain-Computer Interfaces (BCIs)</strong>, <strong>Deep Learning</strong>, and <strong>Full Stack Development</strong></li><br>
 
-- 🛠️ Focused on **Backend Engineering**  
-  using **Node.js**, **Django REST Framework**, and occasionally **Golang**
+  <li>🛠️ Passionate about <strong>Backend Engineering</strong> with tools like <kbd>Node.js</kbd>, <kbd>Django REST Framework</kbd>, and <kbd>Golang</kbd></li><br>
 
-- ⚙️ Currently learning about **Low-Level Systems** and **Computer Networking**  
-  to understand what really powers modern software
+  <li>⚙️ Delving deep into <strong>Low-Level Systems</strong> and <strong>Computer Networking</strong><br>
+  <sub>to understand the foundations behind modern computing</sub></li><br>
 
-- 🌱 Always curious—whether it's writing better code  
-  or exploring the systems behind intelligent behavior
+  <li>🌱 Perpetual learner—curious about everything from writing elegant code to unraveling how intelligent systems behave</li>
+</ul>
 
----
+<hr />
 
 > _“At the core, I'm a learner who enjoys going beneath the surface—whether that means refining my code or grasping how complex systems truly work.”_
 
