@@ -3,19 +3,19 @@
 <hr />
 
 <ul>
-  <li>🎓 <strong>Undergraduate at IIT Jodhpur</strong><br>
+  <li> <strong>Undergraduate at IIT Jodhpur</strong><br>
   <sub>Studying <strong>Biological Sciences and Bioengineering</strong></sub></li><br>
 
-  <li>🧠 <strong>Fascinated</strong> by how technology can help us understand the <em>brain</em> and <em>human behavior</em></li><br>
+  <li> <strong>Fascinated</strong> by how technology can help us understand the <em>brain</em> and <em>human behavior</em></li><br>
 
-  <li>🧩 Exploring the intersection of <strong>Cognitive Science</strong>, <strong>Brain-Computer Interfaces (BCIs)</strong>, <strong>Deep Learning</strong>, and <strong>Full Stack Development</strong></li><br>
+  <li> Exploring the intersection of <strong>Cognitive Science</strong>, <strong>Brain-Computer Interfaces (BCIs)</strong>, <strong>Deep Learning</strong>, and <strong>Full Stack Development</strong></li><br>
 
-  <li>🛠️ Passionate about <strong>Backend Engineering</strong> with tools like <kbd>Node.js</kbd>, <kbd>Django REST Framework</kbd>, and <kbd>Golang</kbd></li><br>
+  <li> Passionate about <strong>Backend Engineering</strong> with tools like <kbd>Node.js</kbd>, <kbd>Django REST Framework</kbd>, and <kbd>Golang</kbd></li><br>
 
-  <li>⚙️ Delving deep into <strong>Low-Level Systems</strong> and <strong>Computer Networking</strong><br>
+  <li> Delving deep into <strong>Low-Level Systems</strong> and <strong>Computer Networking</strong><br>
   <sub>to understand the foundations behind modern computing</sub></li><br>
 
-  <li>🌱 Perpetual learner—curious about everything from writing elegant code to unraveling how intelligent systems behave</li>
+  <li> Perpetual learner curious about everything from writing elegant code to unraveling how intelligent systems behave</li>
 </ul>
 
 <hr />
